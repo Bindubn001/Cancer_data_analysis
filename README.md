@@ -16,3 +16,4 @@ Classification Algorithms used:
 ->numpy
 ->sklearn
 ->matplotlib
+->seaborn
