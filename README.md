@@ -1,4 +1,4 @@
-# Cancer_data_analysis
+# Cancer_Data_Analysis
 This is a Data Analytics project of analysing cancer data.
 It is categorical data
 Classification Algorithms used:
